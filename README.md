@@ -5,6 +5,7 @@
 
 <br/>
 
+- Warsaw/Poland: https://witty-ground-0b275c903.2.azurestaticapps.net/?CountryCode=pl&CityCode=warsaw
 - configured organization: https://witty-ground-0b275c903.2.azurestaticapps.net/configured-org
 - configured event: https://witty-ground-0b275c903.2.azurestaticapps.net/configured-org/event/opener-bachata-2023
 
